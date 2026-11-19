@@ -1,0 +1,196 @@
+{
+ "hero-dusk": {
+  "w": 1600,
+  "h": 1067,
+  "sizes": [
+   480,
+   800,
+   1280,
+   1600
+  ],
+  "src": "agoda-92fc44ac3c.jpg"
+ },
+ "valley-balcony": {
+  "w": 1600,
+  "h": 1198,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "exp-516fc429.jpg"
+ },
+ "mist-balcony": {
+  "w": 960,
+  "h": 642,
+  "sizes": [
+   480,
+   800
+  ],
+  "src": "ta-18-3a.jpg"
+ },
+ "pool": {
+  "w": 999,
+  "h": 872,
+  "sizes": [
+   480,
+   800
+  ],
+  "src": "wmg-1731252196_Pool.jpeg"
+ },
+ "lawn-night": {
+  "w": 1280,
+  "h": 1067,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "wmg-1731252044_0F1A8625.JPG"
+ },
+ "stage-ring": {
+  "w": 1216,
+  "h": 1067,
+  "sizes": [
+   480,
+   800
+  ],
+  "src": "wmg-1731252094_0F1A8626.JPG"
+ },
+ "lawn-day": {
+  "w": 1280,
+  "h": 720,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "wmg-2022-12-11-44pm.jpg"
+ },
+ "hall-basilica": {
+  "w": 770,
+  "h": 780,
+  "sizes": [
+   480
+  ],
+  "src": "wmg-2022-12-11-38pm.jpg"
+ },
+ "hall-stage": {
+  "w": 1280,
+  "h": 960,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "wmg-2022-12-11-52pm__1_.jpg"
+ },
+ "terrace-mandap": {
+  "w": 1280,
+  "h": 720,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "wmg-2022-12-11-45pm.jpg"
+ },
+ "entrance-arch": {
+  "w": 1600,
+  "h": 1067,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "wmg-1731252025_0F1A8384.JPG"
+ },
+ "room-deluxe": {
+  "w": 1600,
+  "h": 1067,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "agoda-59742ddab3.jpg"
+ },
+ "room-balcony": {
+  "w": 960,
+  "h": 642,
+  "sizes": [
+   480,
+   800
+  ],
+  "src": "ta-18-34.jpg"
+ },
+ "room-cottage": {
+  "w": 1600,
+  "h": 1067,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "agoda-9d163f5638.jpg"
+ },
+ "bungalow-twin": {
+  "w": 1312,
+  "h": 1200,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "agoda-bung-f73032ce6b.jpg"
+ },
+ "bungalow-double": {
+  "w": 1312,
+  "h": 1200,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "agoda-bung-1cff5d9f88.jpg"
+ },
+ "restaurant": {
+  "w": 1600,
+  "h": 1068,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "exp-83b4c743.jpg"
+ },
+ "lobby": {
+  "w": 1600,
+  "h": 1198,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "exp-51a83220.jpg"
+ },
+ "courtyard": {
+  "w": 1600,
+  "h": 1198,
+  "sizes": [
+   480,
+   800,
+   1280
+  ],
+  "src": "exp-a7656ae3.jpg"
+ },
+ "garden-play": {
+  "w": 960,
+  "h": 642,
+  "sizes": [
+   480,
+   800
+  ],
+  "src": "ta-17-86.jpg"
+ }
+}
