@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+.vscode/
+.idea/
+*.log
+.wrangler/
+.claude/settings.local.json
