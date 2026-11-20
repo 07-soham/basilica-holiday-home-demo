@@ -20,7 +20,12 @@ python make_images.py   # only when photos change
 python build.py         # writes site/dist/
 ```
 
-## Deploy: Cloudflare Pages
+## Deploy (demo): GitHub Pages
+`.github/workflows/pages.yml` publishes `site/dist` on every push to `main`.
+Live at https://07-soham.github.io/basilica-holiday-home-demo/
+GitHub Pages ignores `_headers`, so the demo runs without the CSP and X-Frame headers. The `noindex` meta still keeps it out of search results.
+
+## Deploy (after the client signs): Cloudflare Pages
 Either connect this repo (Workers & Pages → Create → Pages → Connect to Git, framework preset None, no build command, output directory `site/dist`) or upload directly:
 ```
 npx wrangler login
